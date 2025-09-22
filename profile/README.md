@@ -60,8 +60,12 @@ Municipal staff gain a **centralized, AI-assisted dashboard** for categorizing, 
 We are **Netrah**, a team of innovators re-imagining civic governance with technology.  
 
 👤 **Leadership**:  
-- Co-Leaders: *Arnav Ghosh* & [Other Co-Leader’s Name]  
-- Members: [List your team members here]  
+- Leaders: *Arnav Ghosh* & *Kanishka Roy*
+- Members:
+    - Ishita Mazumder
+    - Priya Kumari
+    - Shivangi Gupta
+    - Shimantha Naidu  
 
 **Vision**: *“Through the citizen’s eyes, for the city’s future.”*  
 
